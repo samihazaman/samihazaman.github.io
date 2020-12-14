@@ -1,3 +1,44 @@
-body { 
-    background-color: orange;
+body {
+     background-color: black;
 }
+
+.intro {
+   background-color: lightgrey;
+   font-family: 'Roboto', sans-serif;
+   padding: 10px 10px 10px 10px;
+   margin: 30px 200px 10px 200px; 
+}
+
+.bio {
+     margin: 30px 100px 10px 100px; 
+}
+
+h1, .bio, .item, h2, p {
+   text-align: center;
+}
+
+.projects {
+       font-family: 'Roboto', sans-serif;
+}
+
+.item {
+       margin: 30px 200px 30px 200px; 
+       font-family: 'Roboto', sans-serif;
+
+}
+
+.container {
+        background-color: #4ab0ab;
+        padding: 10px 10px 10px 10px;
+        margin: 30px 200px 10px 200px; 
+}
+
+.contact {
+        background-color: lightgrey;
+        padding: 10px 10px 10px 10px;
+        margin: 30px 200px 10px 200px;
+       font-family: 'Roboto', sans-serif;
+
+}
+
+
